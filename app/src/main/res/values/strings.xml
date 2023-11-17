@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="nextbtn">Next</string>
+    <string name="titleform">Formulir Pengajuan Skripsi</string>
+    <string name="nama">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="konsentrasi">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="dosentitle1">Dosen Pembimbing 1</string>
+    <string name="dosentitle2">Dosen Pembimbing 2</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="djoko">Dwi Djoko P</string>
+    <string name="aprilia">Aprilia Kurniati</string>
+    <string name="submitbtn">Submit</string>
+    <string name="backbtn">Back</string>
+</resources>
